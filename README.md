@@ -2,7 +2,7 @@
 
 안녕하신가. 힘세고 강한 아침. 만일 내게 물어보면, 나는 IAOON.
 
-![받은 추천사들](https://referral.akaiaoon.dev/u/IAOON)
+![받은 추천사들](https://referral.akaiaoon.dev/u/IAOON.svg)
 
 <!--
 **IAOON/IAOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
