@@ -1,4 +1,6 @@
-## Hi there 👋
+## 프로필 업데이트 중...
+
+안녕하신가. 힘세고 강한 아침. 만일 내게 물어보면, 나는 IAOON.
 
 ![받은 추천사들](https://referral.akaiaoon.dev/api/recommendations/iaoon)
 
